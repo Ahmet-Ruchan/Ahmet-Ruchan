@@ -6,16 +6,12 @@ Computer Engineer
 
 First and foremost, I am a leader and entrepreneur. I am also a computer engineer. Still ongoing, throughout my entire learning life. I am 21 years old. I work on data science, artificial intelligence and machine learning. I also do Front-End web and mobile application development. I have always been and continue to be intertwined with technology and its derivatives. I am open to learning new technologies. I thrive creating scalable engineering environments and processes with strong vision and solid fundamentals to enable businesses and fuel innovation. Having a strong academic and commercial research background, I help people navigate through the technology space.
 
-* 🌍  I'm based in İstanbul
-* 🖥️  See my portfolio at [ahmetruchanavci.net](http://www.ahmetruchanavci.net/)
-* ✉️  You can contact me at [aruchanavci01@gmail.com](mailto:aruchanavci01@gmail.com)
-* 🧠  I'm learning Artificial Intelligence and Machine Learning
-* 🤝  I'm open to collaborating on as a software engineer, AI / ML , web and mobile development.
-* ⚡  To wake up all the sleepers, one vigilant is enough.
-
-### Skills
-
-
+*   🌍  I'm based in İstanbul
+*   🖥️  See my portfolio at [ahmetruchanavci.net](http://www.ahmetruchanavci.net/)
+*   ✉️  You can contact me at [aruchanavci01@gmail.com](mailto:aruchanavci01@gmail.com)
+*   🧠  I'm learning Artificial Intelligence and Machine Learning
+*   🤝  I'm open to collaborating on as a software engineer, AI / ML , web and mobile development.
+*   ⚡  To wake up all the sleepers, one vigilant is enough.### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -34,18 +30,17 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Ahmet-Ruchan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmet-ruchana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@Ahmet_Ruchan_Avci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AhmetRuchann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Ahmet-Ruchan"><img src="https://github-readme-stats.vercel.app/api?username=Ahmet-Ruchan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Ahmet-Ruchan's GitHub stats" /></a>
-
-<a href="http://www.github.com/Ahmet-Ruchan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmet-Ruchan&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Ahmet-Ruchan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Ruchan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/Ahmet-Ruchan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/ahmet-ruchana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.medium.com/@Ahmet_Ruchan_Avci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/AhmetRuchann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Ahmet-Ruchan"><img src="https://github-readme-stats.vercel.app/api?username=Ahmet-Ruchan&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Ahmet-Ruchan's GitHub stats" /></a><a href="https://github.com/Ahmet-Ruchan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Ruchan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
