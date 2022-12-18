@@ -4,7 +4,7 @@ Hi 👋 My name is Ahmet Ruçhan Avcı
 Computer Engineer
 -----------------
 
-First and foremost, I am a leader and entrepreneur. I am also a computer engineer. Still ongoing, throughout my entire learning life. I am 21 years old. I work on data science, artificial intelligence and machine learning. I also do Front-End web and mobile application development. I have always been and continue to be intertwined with technology and its derivatives. I am open to learning new technologies. I thrive creating scalable engineering environments and processes with strong vision and solid fundamentals to enable businesses and fuel innovation. Having a strong academic and commercial research background, I help people navigate through the technology space.
+First and foremost, I am a leader and entrepreneur. I am also a computer engineer.
 
 * 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [ahmetruchanavci.net](http://www.ahmetruchanavci.net/)
