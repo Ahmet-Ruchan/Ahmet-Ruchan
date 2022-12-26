@@ -6,12 +6,10 @@ Computer Engineer
 
 First and foremost, I am a leader and entrepreneur. I am also a computer engineer.
 
-* 🌍  I'm based in İstanbul
 * 🖥️  See my portfolio at [ahmetruchanavci.net](http://www.ahmetruchanavci.net/)
 * ✉️  You can contact me at [aruchanavci01@gmail.com](mailto:aruchanavci01@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on as a software engineer, AI / ML , web and mobile development.
-* ⚡  To wake up all the sleepers, one vigilant is enough.
 
 ### Skills
 
