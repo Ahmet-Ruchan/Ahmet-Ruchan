@@ -9,7 +9,7 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 * 🖥️  See my portfolio at [ahmetruchanavci.net](http://www.ahmetruchanavci.net/)
 * ✉️  You can contact me at [aruchanavci01@gmail.com](mailto:aruchanavci01@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
-* 🤝  I'm open to collaborating on as a software engineer, AI / ML, web and mobile development.
+* 🤝  I'm open to collaborating on as a software engineer, AI / ML and mobile development.
 
 ### Skills
 
