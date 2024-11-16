@@ -6,7 +6,7 @@ Computer Engineer
 
 First and foremost, I am a leader and entrepreneur. I am also a computer engineer.
 
-* 🖥️  See my portfolio at [ahmetruchanavci.net](http://www.ahmetruchanavci.net/)
+* 🖥️  See my portfolio at [ahmetruchanavci.net](http://www.ahmetruchanavci.com/)
 * ✉️  You can contact me at [aruchanavci01@gmail.com](mailto:aruchanavci01@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on as a software engineer, AI / ML and mobile development.
