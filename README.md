@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmet Ruçhan Avcı
 ==================================
 
-Computer Engineer
+Jr. Machine Learning Engineer
 -----------------
 
 First and foremost, I am a leader and entrepreneur. I am also a computer engineer.
@@ -9,7 +9,7 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 * 🖥️  See my portfolio at [ahmetruchanavci.com](http://www.ahmetruchanavci.com/)
 * ✉️  You can contact me at [aruchanavci01@gmail.com](mailto:aruchanavci01@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
-* 🤝  I'm open to collaborating on as a software engineer, AI / ML and mobile development.
+* 🤝  I'm open to collaborating on as a Machine Learning Engineer, Data Scientist, Artificial Intelligence Engineer and Software Engineer.
 
 ### Skills
 
