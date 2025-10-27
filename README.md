@@ -4,6 +4,8 @@ Hi 👋 My name is Ahmet Ruçhan Avcı
 Jr. Machine Learning Engineer
 -----------------
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmet-Ruchan&style=flat-square&color=blue)
+
 First and foremost, I am a leader and entrepreneur. I am also a computer engineer.
 
 * 🖥️  See my portfolio at [ahmetruchanavci.com](http://www.ahmetruchanavci.com/)
@@ -11,8 +13,11 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on as a Machine Learning Engineer, Data Scientist, Artificial Intelligence Engineer and Software Engineer.
 
-### Skills
+![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmet-Ruchan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Ruchan&layout=compact&theme=tokyonight) 
 
+
+### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
