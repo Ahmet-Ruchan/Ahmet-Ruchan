@@ -4,6 +4,8 @@ Hi 👋 My name is Ahmet Ruçhan Avcı
 Jr. Machine Learning Engineer
 -----------------
 
+Since October 2025
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmet-Ruchan&style=flat-square&color=blue)
 
 First and foremost, I am a leader and entrepreneur. I am also a computer engineer.
