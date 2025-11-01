@@ -3,6 +3,9 @@ Hi 👋 My name is Ahmet Ruçhan Avcı
 
 Jr. Machine Learning Engineer
 -----------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Ruçhan%20Avcı-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-ruchana/)
+[![Portfolio](https://img.shields.io/badge/Website-ahmetruchanavci.com-lightgrey.svg?logo=firefox&logoColor=white)](https://www.ahmetruchanavci.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Ahmet%20Ruçhan%20Avcı-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmetruhanavc)
 
 Since October 2025
 
@@ -14,6 +17,8 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 * ✉️  You can contact me at [aruchanavci01@gmail.com](mailto:aruchanavci01@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning
 * 🤝  I'm open to collaborating on as a Machine Learning Engineer, Data Scientist, Artificial Intelligence Engineer and Software Engineer.
+
+---
 
 ![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmet-Ruchan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Ruchan&layout=compact&theme=tokyonight) 
