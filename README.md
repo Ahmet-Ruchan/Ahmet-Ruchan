@@ -3,9 +3,6 @@ Hi 👋 My name is Ahmet Ruçhan Avcı
 
 Jr. Machine Learning Engineer
 -----------------
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Ruçhan%20Avcı-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-ruchana/)
-[![Portfolio](https://img.shields.io/badge/Website-ahmetruchanavci.com-lightgrey.svg?logo=firefox&logoColor=white)](https://www.ahmetruchanavci.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Ahmet%20Ruçhan%20Avcı-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmetruhanavc)
 
 Since October 2025
 
@@ -52,5 +49,7 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 <p align="left"> 
 <a href="https://www.github.com/Ahmet-Ruchan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="48" height="48" /></a> 
 <a href="https://www.linkedin.com/in/ahmet-ruchana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" /></a> 
-<a href="http://www.medium.com/@Ahmet_Ruchan_Avci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="48" height="48" /></a> 
+<a href="http://www.medium.com/@Ahmet_Ruchan_Avci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="48" height="48" /></a>
+<a href="https://www.kaggle.com/ahmetruhanavc" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48" />
+<a href="https://www.ahmetruchanavci.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe-dark.svg" width="48" height="48" /></a>
 
