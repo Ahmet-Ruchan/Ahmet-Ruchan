@@ -50,6 +50,6 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 <a href="https://www.github.com/Ahmet-Ruchan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="48" height="48" /></a> 
 <a href="https://www.linkedin.com/in/ahmet-ruchana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="48" height="48" /></a> 
 <a href="http://www.medium.com/@Ahmet_Ruchan_Avci" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="48" height="48" /></a>
-<a href="https://www.kaggle.com/ahmetruhanavc" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48" />
-<a href="https://www.ahmetruchanavci.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/globe-dark.svg" width="48" height="48" /></a>
+<a href="https://www.kaggle.com/ahmetruhanavc" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48" /></a>
+<a href="https://www.ahmetruchanavci.com" target="_blank" rel="noreferrer"><img src="https://github.com/Ahmet-Ruchan/my-website-2024/blob/main/assets/favicon.ico" width="48" height="48" /></a>
 
