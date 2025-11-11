@@ -20,7 +20,7 @@ First and foremost, I am a leader and entrepreneur. I am also a computer enginee
 ![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmet-Ruchan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmet-Ruchan&layout=compact&theme=tokyonight) 
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmet-Ruchan&theme=tokyonight&hide_border=false&border_radius=12" height="180" alt="Streak Stats" />
+<img src="https://streak-stats.vercel.app/api?user=Ahmet-Ruchan&theme=tokyonight&hide_border=false&border_radius=12" height="180" alt="Streak Stats" />
 
 ### Skills
 
