@@ -1,7 +1,7 @@
-Hi 👋 My name is Ahmet Ruçhan Avcı
+Hi 🙋🏼 My name is Ahmet Ruçhan Avcı
 ==================================
 
-Jr. Machine Learning Engineer
+Jr. Machine Learning Engineer 🥋
 -----------------
 
 Since November 2025
